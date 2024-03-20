@@ -1,6 +1,6 @@
 # Práticas de Tratamento de Exceções em Java
 
-img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" width="40" height="40"/>
 
 Este código foi desenvolvido com o intuito de demonstrar minhas práticas com Java em relação ao tratamento de exceções.
 
